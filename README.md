@@ -1,4 +1,4 @@
-ach class must hold a Bread object and provide its own ingredients and recipe.
+Each class must hold a Bread object and provide its own ingredients and recipe.
 
 Instructions
 Do not use inheritance. No extends, no implements, no @Override. 
